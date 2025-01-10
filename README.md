@@ -58,6 +58,8 @@ The code below demonstrates how to set swipe offset based on its content size in
     </syncfusion:SfDataGrid.Columns>
 </syncfusion:SfDataGrid>
 ``` 
+**Note**
+The value of the [SfDataGrid.MaxSwipeOffset](https://help.syncfusion.com/cr/maui/Syncfusion.Maui.DataGrid.SfDataGrid.html?tabs=tabid-1#Syncfusion_Maui_DataGrid_SfDataGrid_MaxSwipeOffset) property will not be considered when the [SfDataGrid.SwipeOffsetMode](https://help.syncfusion.com/cr/maui/Syncfusion.Maui.DataGrid.SfDataGrid.html#Syncfusion_Maui_DataGrid_SfDataGrid_SwipeOffsetMode) is set to [SwipeOffsetMode.Auto](https://help.syncfusion.com/cr/maui/Syncfusion.Maui.DataGrid.DataGridSwipeOffsetMode.html#Syncfusion_Maui_DataGrid_DataGridSwipeOffsetMode_Auto).
 
 <img src="https://support.syncfusion.com/kb/agent/attachment/inline?token=eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjM0OTUwIiwib3JnaWQiOiIzIiwiaXNzIjoic3VwcG9ydC5zeW5jZnVzaW9uLmNvbSJ9.ILKIIxDGhC_ZuuVhxwcXwLc6vX6JCvDGJPL1JfkqR4o" width=700 />
 
